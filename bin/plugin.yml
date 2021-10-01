@@ -1,0 +1,11 @@
+name: LitebansBook
+version: 1.0
+author: ItsKazos
+main: me.itskazos.litebansbook.Main
+description: Litebans book gui
+
+commands:
+    litebansbook:
+        description: Main command
+    punish:
+        description: Main command
