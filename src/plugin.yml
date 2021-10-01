@@ -5,7 +5,7 @@ main: me.itskazos.litebansbook.Main
 description: Litebans book gui
 
 commands:
-    litebansbook:
+    litebansbookreload:
         description: Main command
     punish:
         description: Main command

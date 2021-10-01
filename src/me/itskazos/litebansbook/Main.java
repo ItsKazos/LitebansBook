@@ -17,7 +17,7 @@ public class Main extends JavaPlugin {
 	
 	@Override
 	public void onEnable() {
-		this.getCommand("litebansbook").setExecutor(new LitebansBook());
+		this.getCommand("litebansbookreload").setExecutor(new LitebansBook());
 		this.getCommand("punish").setExecutor(new LitebansPunish());
 		createFiles();
 		plugin = this;
